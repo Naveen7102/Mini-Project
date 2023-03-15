@@ -1,2 +1,1 @@
-[localhost]
-localhost ansible_user=ansible_user
+localhost ansible_connection=local
