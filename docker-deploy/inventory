@@ -1,2 +1,2 @@
 [localhost]
-localhost ansible_user=naveen
+localhost ansible_user=ansible_user
