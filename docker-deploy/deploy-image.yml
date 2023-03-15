@@ -1,0 +1,8 @@
+---
+- name: Pull docker image of calculator
+  hosts: all
+  tasks:
+          - name: pull calculator image
+            docker_image:
+                    name: naveen7102/calculator
+                    source: pull
