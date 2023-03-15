@@ -2,7 +2,15 @@
 - name: Pull docker image of calculator
   hosts: all
   tasks:
+          - name: start docker service
+            service:
+              name: docker
+              state: started
+              
           - name: pull calculator image
             docker_image:
                     name: naveen7102/calculator
                     source: pull
+                    
+          - name: running container
+            shell: docker run -it -d naveen7102/calculator
