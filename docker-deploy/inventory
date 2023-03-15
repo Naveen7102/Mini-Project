@@ -1,1 +1,1 @@
-localhost ansible_connection=local
+localhost ansible_host=10.0.2.15 ansible_connection=ssh ansible_user=ansible_user ansible_sudo_pass=Jakhi*123
