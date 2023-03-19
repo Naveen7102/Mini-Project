@@ -31,28 +31,28 @@ public class Calculator {
             }
             switch (option){
                 case 1:
-    //                square root
+    //                square root function
                     System.out.print("Enter a number - ");
                     double n = scanner.nextInt();
                     Double sr_res = obj.square_root(n);
                     System.out.println("Square root of " + n + " is " + sr_res);
                     break;
                 case 2:
-    //                factorial
+    //                factorial function
                     System.out.print("Enter a number - ");
                     int factn = scanner.nextInt();
                     Integer f_res = obj.factorial(factn);
                     System.out.println("Factorial of " + factn + " is " + f_res);
                     break;
                 case 3:
-    //                natural log
+    //                natural log function
                     System.out.print("Enter a number - ");
                     Double logn = scanner.nextDouble();
                     Double nl_res = obj.natural_log(logn);
                     System.out.println("Natural logarithm of " + logn + " is " + nl_res);
                     break;
                 case 4:
-    //                power
+    //                power function
                     System.out.print("Enter the base number - ");
                     double a = scanner.nextInt();
                     System.out.print("Enter the exponent number - ");
