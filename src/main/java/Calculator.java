@@ -101,12 +101,6 @@ public class Calculator {
             logUtility.error("Factorial of negative number is not defined");
             return null;
         }
-        if(n < 0) 
-        {
-            logUtility.error("Natural Logarithm of negative numbers is not defined");
-            return null;
-        }
-        else
         {
             int ans = 1;
             for(int i=1;i<=n;i++)
