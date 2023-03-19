@@ -127,7 +127,6 @@ public class Calculator {
             return null;
         }
         Double ans = Math.pow(a,b);
-        logUtility.info("Executing Power Fucntion");
         logUtility.info("Power Function of "+ a + " to rise " + b + " is equal to: " + ans);
         return ans;
     }
