@@ -14,6 +14,7 @@ public class Calculator {
     public static void calculator(){
         Calculator obj = new Calculator();
         Scanner scanner  = new Scanner(System.in);
+        logUtility.info("Executing Calculator");
         while(true)
         {
             System.out.println("Enter a option from the following menu");

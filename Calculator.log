@@ -1,0 +1,10 @@
+[INFO ] 2023-03-19 15:23:13.408 [main] Calculator - Executing Calculator
+[INFO ] 2023-03-19 15:23:20.372 [main] Calculator - Executing Square Root Fucntion
+[INFO ] 2023-03-19 15:23:20.393 [main] Calculator - Square Root of 4.0 is 2.0
+[INFO ] 2023-03-19 15:24:00.026 [main] Calculator - Executing Factorial Fucntion
+[INFO ] 2023-03-19 15:24:00.029 [main] Calculator - Factorial of 3 is 6
+[INFO ] 2023-03-19 15:24:09.074 [main] Calculator - Executing Natural Log Fucntion
+[INFO ] 2023-03-19 15:24:09.074 [main] Calculator - Natural logarithm of 4.0 is 1.3862943611198906
+[INFO ] 2023-03-19 15:24:13.841 [main] Calculator - Executing Power Fucntion
+[INFO ] 2023-03-19 15:24:13.841 [main] Calculator - Executing Power Fucntion
+[INFO ] 2023-03-19 15:24:13.895 [main] Calculator - Power Function of 2.0 to rise 4.0 is equal to: 16.0
