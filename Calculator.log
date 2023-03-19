@@ -1,0 +1,156 @@
+[INFO ] 2023-03-19 21:28:15.097 [main] Calculator - Executing Factorial Fucntion
+[INFO ] 2023-03-19 21:28:15.104 [main] Calculator - Factorial of 5 is 120
+[INFO ] 2023-03-19 21:28:15.104 [main] Calculator - Executing Factorial Fucntion
+[INFO ] 2023-03-19 21:28:15.104 [main] Calculator - Factorial of 5 is 120
+[INFO ] 2023-03-19 21:28:15.104 [main] Calculator - Executing Factorial Fucntion
+[INFO ] 2023-03-19 21:28:15.104 [main] Calculator - Factorial of 3 is 6
+[INFO ] 2023-03-19 21:28:15.104 [main] Calculator - Executing Factorial Fucntion
+[INFO ] 2023-03-19 21:28:15.104 [main] Calculator - Factorial of 1 is 1
+[INFO ] 2023-03-19 21:28:15.105 [main] Calculator - Executing Square Root Fucntion
+[INFO ] 2023-03-19 21:28:15.111 [main] Calculator - Square Root of 4.0 is 2.0
+[INFO ] 2023-03-19 21:28:15.111 [main] Calculator - Executing Square Root Fucntion
+[INFO ] 2023-03-19 21:28:15.111 [main] Calculator - Square Root of 9.0 is 3.0
+[INFO ] 2023-03-19 21:28:15.111 [main] Calculator - Executing Square Root Fucntion
+[INFO ] 2023-03-19 21:28:15.111 [main] Calculator - Square Root of 121.0 is 11.0
+[INFO ] 2023-03-19 21:28:15.112 [main] Calculator - Executing Natural Log Fucntion
+[INFO ] 2023-03-19 21:28:15.112 [main] Calculator - Natural logarithm of 5.0 is 1.6094379124341003
+[INFO ] 2023-03-19 21:28:15.112 [main] Calculator - Executing Natural Log Fucntion
+[INFO ] 2023-03-19 21:28:15.112 [main] Calculator - Natural logarithm of 1.2 is 0.1823215567939546
+[INFO ] 2023-03-19 21:28:15.112 [main] Calculator - Executing Natural Log Fucntion
+[INFO ] 2023-03-19 21:28:15.112 [main] Calculator - Natural logarithm of 1.0 is 0.0
+[INFO ] 2023-03-19 21:28:15.113 [main] Calculator - Executing Square Root Fucntion
+[INFO ] 2023-03-19 21:28:15.113 [main] Calculator - Square Root of 10.0 is 3.1622776601683795
+[INFO ] 2023-03-19 21:28:15.113 [main] Calculator - Executing Square Root Fucntion
+[INFO ] 2023-03-19 21:28:15.113 [main] Calculator - Square Root of 225.0 is 15.0
+[INFO ] 2023-03-19 21:28:15.113 [main] Calculator - Executing Square Root Fucntion
+[INFO ] 2023-03-19 21:28:15.113 [main] Calculator - Square Root of 3.0 is 1.7320508075688772
+[INFO ] 2023-03-19 21:28:15.113 [main] Calculator - Executing Factorial Fucntion
+[INFO ] 2023-03-19 21:28:15.113 [main] Calculator - Factorial of 5 is 120
+[INFO ] 2023-03-19 21:28:15.113 [main] Calculator - Executing Factorial Fucntion
+[INFO ] 2023-03-19 21:28:15.114 [main] Calculator - Factorial of 4 is 24
+[INFO ] 2023-03-19 21:28:15.114 [main] Calculator - Executing Factorial Fucntion
+[INFO ] 2023-03-19 21:28:15.114 [main] Calculator - Factorial of 6 is 720
+[INFO ] 2023-03-19 21:28:15.114 [main] Calculator - Executing Factorial Fucntion
+[INFO ] 2023-03-19 21:28:15.114 [main] Calculator - Factorial of 0 is 1
+[INFO ] 2023-03-19 21:28:15.114 [main] Calculator - Executing Natural Log Fucntion
+[INFO ] 2023-03-19 21:28:15.114 [main] Calculator - Natural logarithm of 5.0 is 1.6094379124341003
+[INFO ] 2023-03-19 21:28:15.114 [main] Calculator - Executing Natural Log Fucntion
+[INFO ] 2023-03-19 21:28:15.114 [main] Calculator - Natural logarithm of 1.2 is 0.1823215567939546
+[INFO ] 2023-03-19 21:28:15.114 [main] Calculator - Executing Natural Log Fucntion
+[INFO ] 2023-03-19 21:28:15.115 [main] Calculator - Natural logarithm of 1.0 is 0.0
+[INFO ] 2023-03-19 21:28:15.115 [main] Calculator - Executing Power Fucntion
+[INFO ] 2023-03-19 21:28:15.124 [main] Calculator - Power Function of 4.0 to rise 3.0 is equal to: 64.0
+[INFO ] 2023-03-19 21:28:15.124 [main] Calculator - Executing Power Fucntion
+[INFO ] 2023-03-19 21:28:15.124 [main] Calculator - Power Function of 1.1 to rise 3.0 is equal to: 1.3310000000000004
+[INFO ] 2023-03-19 21:28:15.125 [main] Calculator - Executing Power Fucntion
+[INFO ] 2023-03-19 21:28:15.125 [main] Calculator - Power Function of 2.0 to rise 3.0 is equal to: 8.0
+[INFO ] 2023-03-19 21:28:15.125 [main] Calculator - Executing Power Fucntion
+[INFO ] 2023-03-19 21:28:15.125 [main] Calculator - Power Function of 1.1 to rise 3.0 is equal to: 1.3310000000000004
+[INFO ] 2023-03-19 21:28:15.125 [main] Calculator - Executing Power Fucntion
+[INFO ] 2023-03-19 21:28:15.125 [main] Calculator - Power Function of 1.0 to rise 11.0 is equal to: 1.0
+[INFO ] 2023-03-19 21:28:15.125 [main] Calculator - Executing Power Fucntion
+[INFO ] 2023-03-19 21:28:15.125 [main] Calculator - Power Function of 0.0 to rise 11.0 is equal to: 0.0
+[INFO ] 2023-03-19 21:30:10.069 [main] Calculator - Executing Factorial Fucntion
+[INFO ] 2023-03-19 21:30:10.190 [main] Calculator - Factorial of 5 is 120
+[INFO ] 2023-03-19 21:30:10.190 [main] Calculator - Executing Factorial Fucntion
+[INFO ] 2023-03-19 21:30:10.190 [main] Calculator - Factorial of 5 is 120
+[INFO ] 2023-03-19 21:30:10.190 [main] Calculator - Executing Factorial Fucntion
+[INFO ] 2023-03-19 21:30:10.190 [main] Calculator - Factorial of 3 is 6
+[INFO ] 2023-03-19 21:30:10.191 [main] Calculator - Executing Factorial Fucntion
+[INFO ] 2023-03-19 21:30:10.191 [main] Calculator - Factorial of 1 is 1
+[INFO ] 2023-03-19 21:30:10.192 [main] Calculator - Executing Square Root Fucntion
+[INFO ] 2023-03-19 21:30:10.203 [main] Calculator - Square Root of 4.0 is 2.0
+[INFO ] 2023-03-19 21:30:10.204 [main] Calculator - Executing Square Root Fucntion
+[INFO ] 2023-03-19 21:30:10.204 [main] Calculator - Square Root of 9.0 is 3.0
+[INFO ] 2023-03-19 21:30:10.204 [main] Calculator - Executing Square Root Fucntion
+[INFO ] 2023-03-19 21:30:10.204 [main] Calculator - Square Root of 121.0 is 11.0
+[INFO ] 2023-03-19 21:30:10.205 [main] Calculator - Executing Natural Log Fucntion
+[INFO ] 2023-03-19 21:30:10.207 [main] Calculator - Natural logarithm of 5.0 is 1.6094379124341003
+[INFO ] 2023-03-19 21:30:10.207 [main] Calculator - Executing Natural Log Fucntion
+[INFO ] 2023-03-19 21:30:10.207 [main] Calculator - Natural logarithm of 1.2 is 0.1823215567939546
+[INFO ] 2023-03-19 21:30:10.207 [main] Calculator - Executing Natural Log Fucntion
+[INFO ] 2023-03-19 21:30:10.207 [main] Calculator - Natural logarithm of 1.0 is 0.0
+[INFO ] 2023-03-19 21:30:10.208 [main] Calculator - Executing Square Root Fucntion
+[INFO ] 2023-03-19 21:30:10.212 [main] Calculator - Square Root of 10.0 is 3.1622776601683795
+[INFO ] 2023-03-19 21:30:10.213 [main] Calculator - Executing Square Root Fucntion
+[INFO ] 2023-03-19 21:30:10.213 [main] Calculator - Square Root of 225.0 is 15.0
+[INFO ] 2023-03-19 21:30:10.213 [main] Calculator - Executing Square Root Fucntion
+[INFO ] 2023-03-19 21:30:10.213 [main] Calculator - Square Root of 3.0 is 1.7320508075688772
+[INFO ] 2023-03-19 21:30:10.214 [main] Calculator - Executing Factorial Fucntion
+[INFO ] 2023-03-19 21:30:10.214 [main] Calculator - Factorial of 5 is 120
+[INFO ] 2023-03-19 21:30:10.214 [main] Calculator - Executing Factorial Fucntion
+[INFO ] 2023-03-19 21:30:10.214 [main] Calculator - Factorial of 4 is 24
+[INFO ] 2023-03-19 21:30:10.214 [main] Calculator - Executing Factorial Fucntion
+[INFO ] 2023-03-19 21:30:10.214 [main] Calculator - Factorial of 6 is 720
+[INFO ] 2023-03-19 21:30:10.214 [main] Calculator - Executing Factorial Fucntion
+[INFO ] 2023-03-19 21:30:10.214 [main] Calculator - Factorial of 0 is 1
+[INFO ] 2023-03-19 21:30:10.215 [main] Calculator - Executing Natural Log Fucntion
+[INFO ] 2023-03-19 21:30:10.215 [main] Calculator - Natural logarithm of 5.0 is 1.6094379124341003
+[INFO ] 2023-03-19 21:30:10.215 [main] Calculator - Executing Natural Log Fucntion
+[INFO ] 2023-03-19 21:30:10.216 [main] Calculator - Natural logarithm of 1.2 is 0.1823215567939546
+[INFO ] 2023-03-19 21:30:10.216 [main] Calculator - Executing Natural Log Fucntion
+[INFO ] 2023-03-19 21:30:10.216 [main] Calculator - Natural logarithm of 1.0 is 0.0
+[INFO ] 2023-03-19 21:30:10.216 [main] Calculator - Executing Power Fucntion
+[INFO ] 2023-03-19 21:30:10.233 [main] Calculator - Power Function of 4.0 to rise 3.0 is equal to: 64.0
+[INFO ] 2023-03-19 21:30:10.233 [main] Calculator - Executing Power Fucntion
+[INFO ] 2023-03-19 21:30:10.233 [main] Calculator - Power Function of 1.1 to rise 3.0 is equal to: 1.3310000000000004
+[INFO ] 2023-03-19 21:30:10.234 [main] Calculator - Executing Power Fucntion
+[INFO ] 2023-03-19 21:30:10.234 [main] Calculator - Power Function of 2.0 to rise 3.0 is equal to: 8.0
+[INFO ] 2023-03-19 21:30:10.234 [main] Calculator - Executing Power Fucntion
+[INFO ] 2023-03-19 21:30:10.234 [main] Calculator - Power Function of 1.1 to rise 3.0 is equal to: 1.3310000000000004
+[INFO ] 2023-03-19 21:30:10.234 [main] Calculator - Executing Power Fucntion
+[INFO ] 2023-03-19 21:30:10.234 [main] Calculator - Power Function of 1.0 to rise 11.0 is equal to: 1.0
+[INFO ] 2023-03-19 21:30:10.234 [main] Calculator - Executing Power Fucntion
+[INFO ] 2023-03-19 21:30:10.234 [main] Calculator - Power Function of 0.0 to rise 11.0 is equal to: 0.0
+[INFO ] 2023-03-19 21:31:03.268 [main] Calculator - Executing Factorial Fucntion
+[INFO ] 2023-03-19 21:31:03.276 [main] Calculator - Factorial of 5 is 120
+[INFO ] 2023-03-19 21:31:03.277 [main] Calculator - Executing Factorial Fucntion
+[INFO ] 2023-03-19 21:31:03.277 [main] Calculator - Factorial of 5 is 120
+[INFO ] 2023-03-19 21:31:03.277 [main] Calculator - Executing Factorial Fucntion
+[INFO ] 2023-03-19 21:31:03.277 [main] Calculator - Factorial of 3 is 6
+[INFO ] 2023-03-19 21:31:03.277 [main] Calculator - Executing Factorial Fucntion
+[INFO ] 2023-03-19 21:31:03.277 [main] Calculator - Factorial of 1 is 1
+[INFO ] 2023-03-19 21:31:03.278 [main] Calculator - Executing Square Root Fucntion
+[INFO ] 2023-03-19 21:31:03.287 [main] Calculator - Square Root of 4.0 is 2.0
+[INFO ] 2023-03-19 21:31:03.288 [main] Calculator - Executing Square Root Fucntion
+[INFO ] 2023-03-19 21:31:03.288 [main] Calculator - Square Root of 9.0 is 3.0
+[INFO ] 2023-03-19 21:31:03.288 [main] Calculator - Executing Square Root Fucntion
+[INFO ] 2023-03-19 21:31:03.288 [main] Calculator - Square Root of 121.0 is 11.0
+[INFO ] 2023-03-19 21:31:03.288 [main] Calculator - Executing Natural Log Fucntion
+[INFO ] 2023-03-19 21:31:03.289 [main] Calculator - Natural logarithm of 5.0 is 1.6094379124341003
+[INFO ] 2023-03-19 21:31:03.289 [main] Calculator - Executing Natural Log Fucntion
+[INFO ] 2023-03-19 21:31:03.289 [main] Calculator - Natural logarithm of 1.2 is 0.1823215567939546
+[INFO ] 2023-03-19 21:31:03.289 [main] Calculator - Executing Natural Log Fucntion
+[INFO ] 2023-03-19 21:31:03.289 [main] Calculator - Natural logarithm of 1.0 is 0.0
+[INFO ] 2023-03-19 21:31:03.290 [main] Calculator - Executing Square Root Fucntion
+[INFO ] 2023-03-19 21:31:03.290 [main] Calculator - Square Root of 10.0 is 3.1622776601683795
+[INFO ] 2023-03-19 21:31:03.290 [main] Calculator - Executing Square Root Fucntion
+[INFO ] 2023-03-19 21:31:03.290 [main] Calculator - Square Root of 225.0 is 15.0
+[INFO ] 2023-03-19 21:31:03.290 [main] Calculator - Executing Square Root Fucntion
+[INFO ] 2023-03-19 21:31:03.290 [main] Calculator - Square Root of 3.0 is 1.7320508075688772
+[INFO ] 2023-03-19 21:31:03.291 [main] Calculator - Executing Factorial Fucntion
+[INFO ] 2023-03-19 21:31:03.291 [main] Calculator - Factorial of 5 is 120
+[INFO ] 2023-03-19 21:31:03.291 [main] Calculator - Executing Factorial Fucntion
+[INFO ] 2023-03-19 21:31:03.291 [main] Calculator - Factorial of 4 is 24
+[INFO ] 2023-03-19 21:31:03.291 [main] Calculator - Executing Factorial Fucntion
+[INFO ] 2023-03-19 21:31:03.291 [main] Calculator - Factorial of 6 is 720
+[INFO ] 2023-03-19 21:31:03.291 [main] Calculator - Executing Factorial Fucntion
+[INFO ] 2023-03-19 21:31:03.292 [main] Calculator - Factorial of 0 is 1
+[INFO ] 2023-03-19 21:31:03.292 [main] Calculator - Executing Natural Log Fucntion
+[INFO ] 2023-03-19 21:31:03.292 [main] Calculator - Natural logarithm of 5.0 is 1.6094379124341003
+[INFO ] 2023-03-19 21:31:03.292 [main] Calculator - Executing Natural Log Fucntion
+[INFO ] 2023-03-19 21:31:03.293 [main] Calculator - Natural logarithm of 1.2 is 0.1823215567939546
+[INFO ] 2023-03-19 21:31:03.293 [main] Calculator - Executing Natural Log Fucntion
+[INFO ] 2023-03-19 21:31:03.293 [main] Calculator - Natural logarithm of 1.0 is 0.0
+[INFO ] 2023-03-19 21:31:03.293 [main] Calculator - Executing Power Fucntion
+[INFO ] 2023-03-19 21:31:03.306 [main] Calculator - Power Function of 4.0 to rise 3.0 is equal to: 64.0
+[INFO ] 2023-03-19 21:31:03.306 [main] Calculator - Executing Power Fucntion
+[INFO ] 2023-03-19 21:31:03.306 [main] Calculator - Power Function of 1.1 to rise 3.0 is equal to: 1.3310000000000004
+[INFO ] 2023-03-19 21:31:03.306 [main] Calculator - Executing Power Fucntion
+[INFO ] 2023-03-19 21:31:03.307 [main] Calculator - Power Function of 2.0 to rise 3.0 is equal to: 8.0
+[INFO ] 2023-03-19 21:31:03.307 [main] Calculator - Executing Power Fucntion
+[INFO ] 2023-03-19 21:31:03.307 [main] Calculator - Power Function of 1.1 to rise 3.0 is equal to: 1.3310000000000004
+[INFO ] 2023-03-19 21:31:03.307 [main] Calculator - Executing Power Fucntion
+[INFO ] 2023-03-19 21:31:03.307 [main] Calculator - Power Function of 1.0 to rise 11.0 is equal to: 1.0
+[INFO ] 2023-03-19 21:31:03.307 [main] Calculator - Executing Power Fucntion
+[INFO ] 2023-03-19 21:31:03.307 [main] Calculator - Power Function of 0.0 to rise 11.0 is equal to: 0.0

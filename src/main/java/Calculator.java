@@ -74,7 +74,7 @@ public class Calculator {
         logUtility.info("Executing Natural Log Fucntion");
         if(n<0)
         {
-            logUtility.error("Square root of negative number is not defined");
+            logUtility.error("Natural Logarithm of negative number is not defined");
             return null;
         }
         double ans = Math.log(n);
