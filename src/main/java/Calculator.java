@@ -29,6 +29,7 @@ public class Calculator {
             {
                 break;
             }
+            // Switch statement for different functions
             switch (option){
                 case 1:
     //                square root
