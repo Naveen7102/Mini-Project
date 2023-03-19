@@ -70,29 +70,38 @@ public class Calculator {
     }
 
     public Double natural_log(double n){
+        logUtility.info("Executing Natural Log Fucntion");
         if(n<0)
         {
             logUtility.error("Square root of negative number is not defined");
             return null;
         }
-        return Math.log(n);
+        double ans = Math.log(n);
+        logUtility.info("Natural logarithm of " + n + " is " + ans);
+        return ans;
     }
 
     public Double square_root(double n){
+        logUtility.info("Executing Square Root Fucntion");
         if(n<0)
         {
             logUtility.error("Square root of negative number is not defined");
             return null;
         }
-        return Math.sqrt(n);
+        double ans = Math.sqrt(n);
+        logUtility.info("Square Root of " + n + " is " + ans);
+        return ans;
     }
 
     public Integer factorial(int n){
-        if(n < 0) {
+        logUtility.info("Executing Factorial Fucntion");
+        if(n < 0) 
+        {
             logUtility.error("Factorial of negative number is not defined");
             return null;
         }
-        if(n < 0) {
+        if(n < 0) 
+        {
             logUtility.error("Natural Logarithm of negative numbers is not defined");
             return null;
         }
@@ -102,19 +111,24 @@ public class Calculator {
             for(int i=1;i<=n;i++)
             {
                 ans = ans*i;
-            }            
+            }
+            logUtility.info("Factorial of " + n + " is " + ans);
             return ans;
         }
         
     }
 
     public Double power(double a, double b){
+        logUtility.info("Executing Power Fucntion");
         if(a == 0 & b == 0)
         {
             logUtility.info("0 power 0 is not defined");
             return null;
         }
-        return Math.pow(a,b);
+        Double ans = Math.pow(a,b);
+        logUtility.info("Executing Power Fucntion");
+        logUtility.info("Power Function of "+ a + " to rise " + b + " is equal to: " + ans);
+        return ans;
     }
 
 }
