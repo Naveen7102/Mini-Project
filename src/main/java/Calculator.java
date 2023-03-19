@@ -33,7 +33,7 @@ public class Calculator {
     //                square root
                     System.out.println("Enter a number");
                     double n = scanner.nextInt();
-                    Double sr_res = square_root(n);
+                    Double sr_res = obj.square_root(n);
                     System.out.println("Square root of " + n + " is " + sr_res);
                     break;
                 case 2:
@@ -78,7 +78,7 @@ public class Calculator {
         return Math.log(n);
     }
 
-    public static Double square_root(double n){
+    public Double square_root(double n){
         if(n<0)
         {
             logUtility.error("Square root of negative number is not defined");
