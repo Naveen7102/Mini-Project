@@ -71,7 +71,7 @@ public class Calculator {
     }
 
     public Double natural_log(double n){
-        logUtility.info("Executing Natural Log Fucntion");
+        logUtility.info("Executing Natural Log Function");
         if(n<0)
         {
             logUtility.error("Natural Logarithm of negative number is not defined");
@@ -83,7 +83,7 @@ public class Calculator {
     }
 
     public Double square_root(double n){
-        logUtility.info("Executing Square Root Fucntion");
+        logUtility.info("Executing Square Root Function");
         if(n<0)
         {
             logUtility.error("Square root of negative number is not defined");
@@ -95,7 +95,7 @@ public class Calculator {
     }
 
     public Integer factorial(int n){
-        logUtility.info("Executing Factorial Fucntion");
+        logUtility.info("Executing Factorial Function");
         if(n < 0) 
         {
             logUtility.error("Factorial of negative number is not defined");
@@ -114,7 +114,7 @@ public class Calculator {
     }
 
     public Double power(double a, double b){
-        logUtility.info("Executing Power Fucntion");
+        logUtility.info("Executing Power Function");
         if(a == 0 & b == 0)
         {
             logUtility.info("0 power 0 is not defined");
