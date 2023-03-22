@@ -17,7 +17,6 @@ public class Calculator {
         logUtility.info("Executing Calculator");
         while(true)
         {
-            // Switch case for different functions
             System.out.println("Enter a option from the following menu");
             System.out.println("1. Square Root");
             System.out.println("2. Factorial");
